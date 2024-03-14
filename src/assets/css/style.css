@@ -1,0 +1,7 @@
+.hover-text {
+    display: none; /* Initially hide the hover text */
+  }
+  
+.hovered .hover-text {
+  display: inline-block; /* Show the hover text when parent is hovered */
+}
